@@ -1,0 +1,6 @@
+.idea*
+.terraform
+*tfstate*
+sandbox.json
+.DS_Store
+.python-version
