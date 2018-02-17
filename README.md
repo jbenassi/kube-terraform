@@ -1,7 +1,7 @@
 # kube-terraform #
 
 
-Use Terraform to orchestrate a **Kubernetes Cluster** in Google **Cloud Platform**
+An example on how to use Terraform to orchestrate a **Kubernetes Cluster** in Google **Cloud Platform**
 
 *Instructions:*
 Create a key for your GCP IAM Service Account and download the .json
